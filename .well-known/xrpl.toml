@@ -1,0 +1,12 @@
+[[ISSUERS]]
+address = "rwG5ZvAREQYCEoupsTm8wQvVXmKfRBuEPX"
+name = "WRP"
+desc = "WRP is a structured liquidity participation token built on the XRP Ledger."
+website = "https://wrptoken.com"
+
+[[TOKENS]]
+issuer = "rwG5ZvAREQYCEoupsTm8wQvVXmKfRBuEPX"
+currency = "WRP"
+name = "WRP"
+desc = "Structured liquidity growth token on XRPL."
+icon = "https://wrptoken.com/logo.png"
